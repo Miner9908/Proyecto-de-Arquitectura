@@ -1,5 +1,5 @@
 
-##Dispositivo de detección de movimiento de bebes
+##Dispositivo de vigilacia para bebes
 ----------------------------------------------------------
 **Materiales**
 Para realizar este dispositivo es necesario los siguientes materiales: 
